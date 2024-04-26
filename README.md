@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npx create-react-app my-app`
+Replace my-app with the name you want to give your React app. This command will use npx to fetch the latest version of create-react-app and create a new React project in a folder with the specified name.
+
+Navigate to the app's directory using the following command: `cd my-app` 
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -41,32 +45,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Link of web App
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://jteja-weather-report.netlify.app/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Screenshots
 
-### Code Splitting
+![Screenshot 2024-04-26 194738](https://github.com/JTejaSumanth/Weather-Report/assets/140799555/f9c11235-6ba9-4ddf-9338-428c3bb264b2)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-04-26 194758](https://github.com/JTejaSumanth/Weather-Report/assets/140799555/c9f486ea-c7ca-4841-a933-f2e44c0a17b1)
